@@ -1,6 +1,6 @@
 import React from 'react'
-import NavBar from './components/NavBar';
-import InfoCollecter from './components/InfoCollecter';
+import NavBar from './NavBar';
+import InfoCollecter from './InfoCollecter';
 import PlayArea from './PlayArea';
 import {
   BrowserRouter as Router,
